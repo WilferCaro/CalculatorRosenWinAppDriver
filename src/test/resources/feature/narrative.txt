@@ -1,0 +1,4 @@
+Suma de los numeros pares del 2 al 8 luego resta todos los impares del 1 al 9
+Yo como usuario
+Quiero Sumar los numeros pares y restar los impares de los primeros 10 digitos
+Para interactuar con la aplicacion de la calculadora de Windows.
